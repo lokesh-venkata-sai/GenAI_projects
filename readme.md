@@ -16,8 +16,14 @@
 - Setup groq API keys from https://console.groq.com/playground
 
 ## Projects
-- `1-Chatbot_with_openAI`: Streamlit Chatbot using Open AI API
-- `2-Chatbot_with_Ollama`: Streamlit Chatbot using Ollama
+- `1-Chatbot_with_openAI`: Streamlit Chatbot using Open AI API.
+- `2-Chatbot_with_Ollama`: Streamlit Chatbot using Ollama.
+- `3-RAG_Document_qa`: RAG Application, querying a document.
+
+
+
+## Sample RAG application
+![alt text](image.png)
 
 
 ### Some Commands used
